@@ -1,0 +1,33 @@
+#familiasplantas img{
+    width: 180px;
+    margin: 10px;
+}
+#columna{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    text-align: center;
+    color: black;
+}
+#familiasplantas{
+    display: flex;
+    column-gap: 10px;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+#familiasplantas2 img{
+    width: 180px;
+    margin: 10px;
+}
+#familiasplantas2{
+    display: flex;
+    column-gap: 10px;
+    justify-content: center;
+}
+article{
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+}
+p{
+    margin: 10px;
+    text-align: justify;
+}
